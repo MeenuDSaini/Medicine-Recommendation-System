@@ -1,6 +1,6 @@
 # Medicine Recommendation System
 ## Description
-A medicine recommendation system designed to help users find suitable medications, precautions, diet, and workout recommendations based on selected symptoms.
+A medicine recommendation system designed to help users find suitable medications, precautions, diet, and workout recommendations based on selected symptoms. This system aims to provide invaluable assistance in various scenarios, including when a doctor is not readily available or when individuals are traveling away from their usual healthcare providers. Moreover, it proves to be particularly useful during emergencies and crises, such as the COVID-19 pandemic, where access to traditional medical services may be limited.
 
 ## Dataset
 The project utilizes the medicine_recommendation_system dataset sourced from Kaggle. This dataset contains information about various medications, their corresponding symptoms, and other relevant attributes.
